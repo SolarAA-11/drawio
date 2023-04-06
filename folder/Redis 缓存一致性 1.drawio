@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2023-04-06T01:45:42.452Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="rsJqsZJgwtRd6znCRiYU" version="21.0.6" type="github" pages="2">
-  <diagram name="Page-1" id="IibW68BPTASTTQLAyBRi">
+<mxfile host="app.diagrams.net" modified="2023-04-06T01:46:09.485Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="68PH5-XXdGBHIvWs0-5I" version="21.0.6" type="github" pages="2">
+  <diagram name="先更新数据库再更新缓存" id="IibW68BPTASTTQLAyBRi">
     <mxGraphModel dx="1221" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />

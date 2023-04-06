@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-06T01:46:09.485Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="68PH5-XXdGBHIvWs0-5I" version="21.0.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-06T02:21:26.390Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="9U-aEfvCVO_NQ_uvPB1h" version="21.0.6" type="github" pages="3">
   <diagram name="先更新数据库再更新缓存" id="IibW68BPTASTTQLAyBRi">
     <mxGraphModel dx="1221" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -151,10 +151,72 @@
           <mxGeometry x="510" y="220" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MnNKsumaJjoP2kOXNIq_-15" value="数据更新为 1" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="670" y="370" width="90" height="30" as="geometry" />
+          <mxGeometry x="680" y="370" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MnNKsumaJjoP2kOXNIq_-16" value="数据更新为 1" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="290" width="90" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="odJYN0eIm-D7WubMwXcn" name="旁路缓存策略 - 读策略">
+    <mxGraphModel dx="1221" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SK3COUG7rtLVBiYzUdp7-1" value="客户端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SK3COUG7rtLVBiYzUdp7-2" value="缓存" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SK3COUG7rtLVBiYzUdp7-3" value="数据库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SK3COUG7rtLVBiYzUdp7-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="SK3COUG7rtLVBiYzUdp7-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="440" as="sourcePoint" />
+            <mxPoint x="150" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SK3COUG7rtLVBiYzUdp7-5" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="SK3COUG7rtLVBiYzUdp7-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="440" as="sourcePoint" />
+            <mxPoint x="370" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SK3COUG7rtLVBiYzUdp7-7" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="SK3COUG7rtLVBiYzUdp7-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="440" as="sourcePoint" />
+            <mxPoint x="560" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SK3COUG7rtLVBiYzUdp7-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="142" y="280" as="sourcePoint" />
+            <mxPoint x="362" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SK3COUG7rtLVBiYzUdp7-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="142" y="330" as="sourcePoint" />
+            <mxPoint x="586" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SK3COUG7rtLVBiYzUdp7-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="142" y="380" as="sourcePoint" />
+            <mxPoint x="362" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SK3COUG7rtLVBiYzUdp7-12" value="缓存未命中" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="386" y="270" width="76" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SK3COUG7rtLVBiYzUdp7-13" value="读取业务数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="606" y="310" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SK3COUG7rtLVBiYzUdp7-14" value="写入缓存数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="386" y="370" width="96" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

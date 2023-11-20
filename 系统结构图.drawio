@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-11-20T06:30:58.973Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="zFrRywcVfh7TFwfSkSaz" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-20T06:42:37.617Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="AWlkZPLTrTB7DoYEbA7y" version="22.1.3" type="github">
   <diagram name="第 1 页" id="IMARKQ-kqPo8kbn4JqX1">
-    <mxGraphModel dx="2823" dy="2202" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2045" dy="1138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="RjzEn20Wd36m9YdLc0uV-89" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;dashed=1;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="500" y="270" width="240" height="190" as="geometry" />
+          <mxGeometry x="470" y="270" width="240" height="190" as="geometry" />
         </mxCell>
         <mxCell id="RjzEn20Wd36m9YdLc0uV-67" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-450" y="270" width="300" height="190" as="geometry" />
@@ -39,9 +39,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RjzEn20Wd36m9YdLc0uV-1" value="总线" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="-450" y="525" width="1260" height="60" as="geometry" />
+          <mxGeometry x="-450" y="510" width="1260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RjzEn20Wd36m9YdLc0uV-2" value="电磁透镜" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SuL22iRkv_WuwSVr_0GP-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.456;entryY=0.97;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="RjzEn20Wd36m9YdLc0uV-2" target="RjzEn20Wd36m9YdLc0uV-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-130" y="329" />
+              <mxPoint x="-130" y="490" />
+              <mxPoint x="198" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RjzEn20Wd36m9YdLc0uV-2" value="扫描控制系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-280" y="298.68" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RjzEn20Wd36m9YdLc0uV-3" value="高压电源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -51,13 +61,10 @@
           <mxGeometry x="285" y="690" width="120" height="54" as="geometry" />
         </mxCell>
         <mxCell id="RjzEn20Wd36m9YdLc0uV-5" value="样品台系统控制" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="510" y="300" width="220.34" height="140" as="geometry" />
+          <mxGeometry x="480" y="300" width="220.34" height="140" as="geometry" />
         </mxCell>
         <mxCell id="RjzEn20Wd36m9YdLc0uV-7" value="控制模块" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="610" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RjzEn20Wd36m9YdLc0uV-13" value="扫描线圈" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="387.37" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RjzEn20Wd36m9YdLc0uV-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RjzEn20Wd36m9YdLc0uV-14" target="RjzEn20Wd36m9YdLc0uV-26">
           <mxGeometry relative="1" as="geometry" />
@@ -94,14 +101,6 @@
         <mxCell id="RjzEn20Wd36m9YdLc0uV-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RjzEn20Wd36m9YdLc0uV-26" target="RjzEn20Wd36m9YdLc0uV-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RjzEn20Wd36m9YdLc0uV-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RjzEn20Wd36m9YdLc0uV-26" target="RjzEn20Wd36m9YdLc0uV-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="204" y="490" />
-              <mxPoint x="-220" y="490" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="RjzEn20Wd36m9YdLc0uV-26" value="扫描信号生成器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="143.5" y="387.37" width="120" height="60" as="geometry" />
         </mxCell>
@@ -115,45 +114,39 @@
           <mxGeometry x="130" y="640" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RjzEn20Wd36m9YdLc0uV-39" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="496" y="610" width="280" height="180" as="geometry" />
+          <mxGeometry x="470" y="610" width="280" height="180" as="geometry" />
         </mxCell>
         <mxCell id="RjzEn20Wd36m9YdLc0uV-40" value="系统控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="506" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RjzEn20Wd36m9YdLc0uV-41" value="图像显示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="646" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RjzEn20Wd36m9YdLc0uV-42" value="状态指示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="506" y="720" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RjzEn20Wd36m9YdLc0uV-43" value="图像处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="646" y="720" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RjzEn20Wd36m9YdLc0uV-45" value="上位机软件包" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="496" y="610" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="SuL22iRkv_WuwSVr_0GP-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RjzEn20Wd36m9YdLc0uV-51" target="RjzEn20Wd36m9YdLc0uV-52">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="470" y="610" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RjzEn20Wd36m9YdLc0uV-51" value="镜筒线圈系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-440" y="387.37" width="120" height="60" as="geometry" />
+          <mxGeometry x="-440" y="387.37" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SuL22iRkv_WuwSVr_0GP-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RjzEn20Wd36m9YdLc0uV-52" target="RjzEn20Wd36m9YdLc0uV-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="RjzEn20Wd36m9YdLc0uV-52" value="聚焦及变形系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RjzEn20Wd36m9YdLc0uV-52" value="汇聚线圈及物镜系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-440" y="298.68" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RjzEn20Wd36m9YdLc0uV-68" value="电子光学系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-337.5" y="270" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RjzEn20Wd36m9YdLc0uV-69" value="电子发射系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-390" y="610" width="360" height="180" as="geometry" />
+          <mxGeometry x="-440" y="610" width="360" height="180" as="geometry" />
         </mxCell>
         <mxCell id="RjzEn20Wd36m9YdLc0uV-71" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="1170" as="sourcePoint" />
-            <mxPoint x="100" as="targetPoint" />
+            <mxPoint x="100" y="820" as="sourcePoint" />
+            <mxPoint x="100" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RjzEn20Wd36m9YdLc0uV-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RjzEn20Wd36m9YdLc0uV-3" target="RjzEn20Wd36m9YdLc0uV-69">
@@ -165,9 +158,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RjzEn20Wd36m9YdLc0uV-91" value="关键器件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="590" y="270" width="60" height="30" as="geometry" />
+          <mxGeometry x="560" y="270" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SuL22iRkv_WuwSVr_0GP-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.862;entryY=0.996;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="RjzEn20Wd36m9YdLc0uV-39" target="RjzEn20Wd36m9YdLc0uV-1">
+        <mxCell id="SuL22iRkv_WuwSVr_0GP-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.788;entryY=0.03;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RjzEn20Wd36m9YdLc0uV-2" target="RjzEn20Wd36m9YdLc0uV-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SuL22iRkv_WuwSVr_0GP-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.214;entryY=0.044;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RjzEn20Wd36m9YdLc0uV-52" target="RjzEn20Wd36m9YdLc0uV-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SuL22iRkv_WuwSVr_0GP-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.841;entryY=0.996;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RjzEn20Wd36m9YdLc0uV-39" target="RjzEn20Wd36m9YdLc0uV-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>

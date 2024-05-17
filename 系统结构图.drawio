@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-17T08:57:20.897Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="c-45zJDugXClIMqYI37A" version="24.3.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-05-17T08:58:14.918Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="xiE-201m12APptJ-xKz-" version="24.3.1" type="github" pages="7">
   <diagram name="第一张图" id="IMARKQ-kqPo8kbn4JqX1">
     <mxGraphModel dx="3141" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1026,7 +1026,7 @@
         <mxCell id="lG8DaWSSW4Pheqm7ClY0-1" value="电镜参数控制" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="-3000" y="-430" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lG8DaWSSW4Pheqm7ClY0-3" value="图像标注控制" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="lG8DaWSSW4Pheqm7ClY0-3" value="图像标注控制" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;opacity=0;" vertex="1" parent="1">
           <mxGeometry x="-2982.5" y="-302.55" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lG8DaWSSW4Pheqm7ClY0-5" value="程序状态信息：气压状态和当前时间" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">

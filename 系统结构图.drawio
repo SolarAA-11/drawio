@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-17T07:33:07.611Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="zedqHzlEDdD3w0EIbD3m" version="24.3.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-05-17T07:34:41.239Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="pW52Vym1jGwmTh4OadqF" version="24.3.1" type="github" pages="7">
   <diagram name="第一张图" id="IMARKQ-kqPo8kbn4JqX1">
     <mxGraphModel dx="3141" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -527,7 +527,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XOKPiwBBfCbZLgCnPg1l" name="Qt Flux">
-    <mxGraphModel dx="3084" dy="1718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2642" dy="1548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -948,25 +948,25 @@
         <mxCell id="1oviQAgt7Hp1THu6P2x3-28" value="Ui.ToolPanel.ToolPanelStageTab" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="-800" y="960" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1oviQAgt7Hp1THu6P2x3-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=classic;endSize=8;" edge="1" parent="1" source="1oviQAgt7Hp1THu6P2x3-30" target="1oviQAgt7Hp1THu6P2x3-32">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-970" y="1100" />
-              <mxPoint x="-970" y="1220" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="lG8DaWSSW4Pheqm7ClY0-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=classic;endSize=8;" edge="1" parent="1" source="1oviQAgt7Hp1THu6P2x3-30" target="lG8DaWSSW4Pheqm7ClY0-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lG8DaWSSW4Pheqm7ClY0-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=classic;endSize=8;" edge="1" parent="1" source="1oviQAgt7Hp1THu6P2x3-30" target="1oviQAgt7Hp1THu6P2x3-43">
+        <mxCell id="lG8DaWSSW4Pheqm7ClY0-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=classic;endSize=8;" edge="1" parent="1" source="1oviQAgt7Hp1THu6P2x3-30" target="1oviQAgt7Hp1THu6P2x3-43">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lG8DaWSSW4Pheqm7ClY0-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=classic;endSize=8;" edge="1" parent="1" source="1oviQAgt7Hp1THu6P2x3-30" target="1oviQAgt7Hp1THu6P2x3-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1120" y="1100" />
+              <mxPoint x="-1120" y="1220" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="1oviQAgt7Hp1THu6P2x3-30" value="Ui.ToolPanel.ImageListTab" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="-800" y="1070" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1oviQAgt7Hp1THu6P2x3-32" value="Ui.ToolPanel.ImageListItem" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-1300" y="1190" width="230" height="60" as="geometry" />
+          <mxGeometry x="-1410" y="1190" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1oviQAgt7Hp1THu6P2x3-39" value="电镜成像参数的控制 Tab" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="-1040" y="790" width="150" height="30" as="geometry" />

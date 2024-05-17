@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-17T06:14:58.160Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="9YEr_26plRGfrZqThqQg" version="24.4.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-05-17T06:16:25.438Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="JhfHFRyLyfHl2sCAgv7D" version="24.4.3" type="github" pages="7">
   <diagram name="第一张图" id="IMARKQ-kqPo8kbn4JqX1">
     <mxGraphModel dx="1511" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -527,7 +527,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XOKPiwBBfCbZLgCnPg1l" name="Qt Flux">
-    <mxGraphModel dx="2131" dy="1885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3033" dy="2381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -669,6 +669,11 @@
         <mxCell id="GYEguwYPvSYslIDqDr7S-40" value="UsbStore" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="690" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="RvDk7kxvVNTxbP0nO6yj-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VehXQYGklDtu_jekRz0e-1" target="RvDk7kxvVNTxbP0nO6yj-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="920" y="-2.2737367544323206e-13" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="VehXQYGklDtu_jekRz0e-1" value="LoggerMiddleware" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="740" y="-30" width="120" height="60" as="geometry" />
         </mxCell>
@@ -783,6 +788,9 @@
         </mxCell>
         <mxCell id="RvDk7kxvVNTxbP0nO6yj-41" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="j5rD5GrgwhjxSMOSoBjR-10" target="j5rD5GrgwhjxSMOSoBjR-10">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RvDk7kxvVNTxbP0nO6yj-43" value="终端上记录程序发生的行为" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="940" y="-80" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

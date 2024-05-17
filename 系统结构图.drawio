@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-17T06:16:25.438Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="JhfHFRyLyfHl2sCAgv7D" version="24.4.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-05-17T06:21:44.307Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="1VBEJNjxhCn7Mqi6vS0Q" version="24.4.3" type="github" pages="7">
   <diagram name="第一张图" id="IMARKQ-kqPo8kbn4JqX1">
     <mxGraphModel dx="1511" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -527,7 +527,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XOKPiwBBfCbZLgCnPg1l" name="Qt Flux">
-    <mxGraphModel dx="3033" dy="2381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1430" dy="1588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -711,7 +711,7 @@
           <mxGeometry x="440" y="-200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j5rD5GrgwhjxSMOSoBjR-10" value="SEM Abstract Layer&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;SEM 控制功能的抽象层&amp;nbsp;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="590" y="-270" width="140" height="30" as="geometry" />
+          <mxGeometry x="580" y="-260" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="j5rD5GrgwhjxSMOSoBjR-11" value="EmCraftsStageController" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="-490" width="160" height="60" as="geometry" />
@@ -784,7 +784,7 @@
           <mxGeometry x="-200" y="-430" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RvDk7kxvVNTxbP0nO6yj-40" value="通过 Qt Plugin 实现的动态库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="680" y="-730" width="170" height="70" as="geometry" />
+          <mxGeometry x="650" y="-760" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RvDk7kxvVNTxbP0nO6yj-41" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="j5rD5GrgwhjxSMOSoBjR-10" target="j5rD5GrgwhjxSMOSoBjR-10">
           <mxGeometry relative="1" as="geometry" />
